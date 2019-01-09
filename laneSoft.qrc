@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>components/LoginDialog.qml</file>
+        <file>Status.js</file>
+        <file>jsImp/generic_imp.js</file>
+        <file>images/13.gif</file>
+        <file>images/16.gif</file>
+        <file>images/185x96.size</file>
+        <file>images/2222.gif</file>
+        <file>images/AutoLanganDown.gif</file>
+        <file>images/AutoLanganUp.gif</file>
+        <file>images/axlet1.gif</file>
+        <file>images/axlet2.gif</file>
+        <file>images/axlet3.gif</file>
+        <file>images/BaojingA.gif</file>
+        <file>images/BaojingG.gif</file>
+        <file>images/bmJiaoTongG.bmp</file>
+        <file>images/bmJiaoTongR.bmp</file>
+        <file>images/bmLanGanDown.bmp</file>
+        <file>images/bmLanGanUp.bmp</file>
+        <file>images/bmPrinterR.png</file>
+        <file>images/bmPrinterG.png</file>
+        <file>images/bmXianQuanG.bmp</file>
+        <file>images/bmXianQuanR.bmp</file>
+        <file>images/bmYuPengG.bmp</file>
+        <file>images/bmYuPengR.bmp</file>
+        <file>images/CarArrive.gif</file>
+        <file>images/CarGo.gif</file>
+        <file>images/GuanggeArrived.gif</file>
+        <file>images/GuanggeGo.gif</file>
+        <file>images/HandLanganDown.gif</file>
+        <file>images/HandLanganUp.gif</file>
+        <file>images/JiaotongG.gif</file>
+        <file>images/JiaotongR.gif</file>
+        <file>images/YupengG.gif</file>
+        <file>images/YupengR.gif</file>
+    </qresource>
+</RCC>
